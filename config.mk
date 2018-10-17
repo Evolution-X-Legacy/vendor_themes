@@ -26,3 +26,10 @@ PRODUCT_PACKAGES += \
     GreenAccent \
     WhiteAccent \
     CyanAccent \
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim
