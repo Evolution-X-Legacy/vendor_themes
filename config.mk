@@ -45,4 +45,5 @@ PRODUCT_PACKAGES += \
     QStileSquaremedo \
     QStileOreo \
     QStileOreoCircleTrim \
-    QStileOreoSquircleTrim
+    QStileOreoSquircleTrim \
+    QStileCircleOutline
