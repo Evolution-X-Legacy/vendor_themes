@@ -26,6 +26,16 @@ PRODUCT_PACKAGES += \
     GreenAccent \
     WhiteAccent \
     CyanAccent \
+    PixelBlueAccent
+
+# Android Q Color accents
+PRODUCT_PACKAGES += \
+    QCinnamonAccent \
+    QGreenAccent \
+    QOceanAccent \
+    QOrchidAccent \
+    QPurpleAccent \
+    QSpaceAccent
 
 # QS tile styles
 PRODUCT_PACKAGES += \
