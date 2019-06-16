@@ -54,7 +54,11 @@ PRODUCT_PACKAGES += \
     QStileOreo \
     QStileOreoCircleTrim \
     QStileOreoSquircleTrim \
-    QStileCircleOutline
+    QStileCircleOutline \
+    QStileRoundedRect \
+    QStileSquare \
+    QStileSquircle \
+    QStileTeardrop
 
 # Fonts to copy
 PRODUCT_COPY_FILES += \
