@@ -126,7 +126,8 @@ PRODUCT_PACKAGES += \
     QStileTeardrop \
     QStileBadge \
     QStileBadgetwo \
-    QStileTriangle
+    QStileTriangle \
+    QStileOxygen
 
 # Fonts to copy
 PRODUCT_COPY_FILES += \
