@@ -17,21 +17,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Accent colors -->
-    <string name="accent_black">Black</string>
-    <string name="accent_white">White</string>
-    <string name="accent_teal">Teal</string>
-    <string name="accent_brown">Brown</string>
-    <string name="accent_cyan">Cyan</string>
-    <string name="accent_green">Green</string>
-    <string name="accent_orange">Orange</string>
-    <string name="accent_pink">Pink</string>
-    <string name="accent_purple">Purple</string>
-    <string name="accent_red">Red</string>
-    <string name="accent_yellow">Yellow</string>
-    <string name="accent_pixel_blue">Pixel Blue</string>
+    <string name="accent_black">Černá</string>
+    <string name="accent_white">Bílá</string>
+    <string name="accent_teal">Modrozelená</string>
+    <string name="accent_brown">Hnědá</string>
+    <string name="accent_cyan">Tyrkysová</string>
+    <string name="accent_green">Zelená</string>
+    <string name="accent_orange">Oranžová</string>
+    <string name="accent_pink">Růžová</string>
+    <string name="accent_purple">Fialová</string>
+    <string name="accent_red">Červená</string>
+    <string name="accent_yellow">Žlutá</string>
+    <string name="accent_pixel_blue">Pixel modrá</string>
     <!-- Android Q Accent colors -->
-    <string name="accent_q_cinnamon">Cinnamon</string>
-    <string name="accent_q_ocean">Ocean</string>
-    <string name="accent_q_orchid">Orchid</string>
-    <string name="accent_q_space">Space</string>
+    <string name="accent_q_cinnamon">Skořicová</string>
+    <string name="accent_q_ocean">Oceánská</string>
+    <string name="accent_q_orchid">Orchideová</string>
+    <string name="accent_q_space">Vesmírná</string>
 </resources>
