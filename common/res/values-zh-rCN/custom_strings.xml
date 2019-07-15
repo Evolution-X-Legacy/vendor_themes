@@ -28,10 +28,10 @@
     <string name="accent_purple">紫色</string>
     <string name="accent_red">红色</string>
     <string name="accent_yellow">黄色</string>
-    <string name="accent_pixel_blue">Pixel Blue</string>
+    <string name="accent_pixel_blue">Pixel 蓝</string>
     <!-- Android Q Accent colors -->
-    <string name="accent_q_cinnamon">Cinnamon</string>
-    <string name="accent_q_ocean">Ocean</string>
-    <string name="accent_q_orchid">Orchid</string>
-    <string name="accent_q_space">Space</string>
+    <string name="accent_q_cinnamon">桂色</string>
+    <string name="accent_q_ocean">海蓝</string>
+    <string name="accent_q_orchid">兰花紫色</string>
+    <string name="accent_q_space">空间</string>
 </resources>
