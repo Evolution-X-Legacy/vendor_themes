@@ -17,21 +17,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Accent colors -->
-    <string name="accent_black">Black</string>
-    <string name="accent_white">White</string>
-    <string name="accent_teal">Teal</string>
-    <string name="accent_brown">Brown</string>
-    <string name="accent_cyan">Cyan</string>
-    <string name="accent_green">Green</string>
-    <string name="accent_orange">Orange</string>
-    <string name="accent_pink">Pink</string>
-    <string name="accent_purple">Purple</string>
-    <string name="accent_red">Red</string>
-    <string name="accent_yellow">Yellow</string>
-    <string name="accent_pixel_blue">Pixel Blue</string>
+    <string name="accent_black">Μαύρο</string>
+    <string name="accent_white">Λευκό</string>
+    <string name="accent_teal">Τιρκουάζ</string>
+    <string name="accent_brown">Καφέ</string>
+    <string name="accent_cyan">Γαλάζιο</string>
+    <string name="accent_green">Πράσινο</string>
+    <string name="accent_orange">Πορτοκαλί</string>
+    <string name="accent_pink">Ροζ</string>
+    <string name="accent_purple">Μωβ</string>
+    <string name="accent_red">Κόκκινο</string>
+    <string name="accent_yellow">Κίτρινο</string>
+    <string name="accent_pixel_blue">Μπλέ Pixel</string>
     <!-- Android Q Accent colors -->
-    <string name="accent_q_cinnamon">Cinnamon</string>
-    <string name="accent_q_ocean">Ocean</string>
-    <string name="accent_q_orchid">Orchid</string>
-    <string name="accent_q_space">Space</string>
+    <string name="accent_q_cinnamon">Κανέλα</string>
+    <string name="accent_q_ocean">Ωκεανός</string>
+    <string name="accent_q_orchid">Ορχιδέα</string>
+    <string name="accent_q_space">Διάστημα</string>
 </resources>
