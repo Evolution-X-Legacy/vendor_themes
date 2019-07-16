@@ -29,6 +29,14 @@
     <string name="accent_yellow">Yellow</string>
     <string name="accent_pixel_blue">Pixel Blue</string>
 
+    <!-- Aesthetic Accent colors from POSP -->
+    <string name="accent_army_green">Army Green</string>
+    <string name="accent_deep_red">Deep Red</string>
+    <string name="accent_faded_pink">Faded Pink</string>
+    <string name="accent_grey">Grey</string>
+    <string name="accent_kinda_indigo">Kinda Indigo</string>
+    <string name="accent_pink_red">Pink Red</string>
+
     <!-- Android Q Accent colors -->
     <string name="accent_q_cinnamon">Cinnamon</string>
     <string name="accent_q_ocean">Ocean</string>

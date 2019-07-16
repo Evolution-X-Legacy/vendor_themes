@@ -29,6 +29,15 @@ PRODUCT_PACKAGES += \
     CyanAccent \
     PixelBlueAccent
 
+# Aesthetic Accents from POSP
+PRODUCT_PACKAGES += \
+    FadedPink \
+    DeepRed \
+    PinkRed \
+    KindaIndigo \
+    ArmyGreen \
+    Grey
+
 # Android Q Color accents
 PRODUCT_PACKAGES += \
     QCinnamonAccent \
