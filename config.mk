@@ -45,6 +45,30 @@ PRODUCT_PACKAGES += \
     QOrchidAccent \
     QSpaceAccent
 
+# Accents from famous brands
+PRODUCT_PACKAGES += \
+    AospaGreen \
+    AndroidOneGreen \
+    CocaColaRed \
+    DiscordPurple \
+    FacebookBlue \
+    InstagramCerise \
+    JollibeeCrimson \
+    McDonaldsYellow \
+    MonsterGreen \
+    NextbitMint \
+    OnePlusRed \
+    PepsiBlue \
+    PocoYellow \
+    RazerGreen \
+    SamsungBlue \
+    SpotifyGreen \
+    StarbucksGreen \
+    TwitchPurple \
+    TwitterBlue \
+    XboxGreen \
+    XiaomiOrange
+
 # QS tile styles
 PRODUCT_PACKAGES += \
     QStileCircleTrim \
