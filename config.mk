@@ -38,6 +38,38 @@ PRODUCT_PACKAGES += \
     ArmyGreen \
     Grey
 
+# Color required overlays packages from Bootleggers
+PRODUCT_PACKAGES += \
+    ObfusBleu \
+    NotImpPurple \
+    Holillusion \
+    MoveMint \
+    AlmostProBlue \
+    BubblegumPink \
+    FrenchBleu \
+    ManiaAmber \
+    DrownedAquaBlue \
+    BoucheRed \
+    DreamyPurple \
+    GrapesPurple \
+    SpookedPurple \
+    MisleadingRed \
+    FSRGrey \
+    HeirloomBleu \
+    LunaBlue \
+    WarmthOrange \
+    NaturedGreen \
+    ColdBleu \
+    DiffDayGreen \
+    DuskPurple \
+    BurningRed \
+    SimilarDawnRed \
+    SpoofyGreen \
+    NewHouseOrange \
+    LimedGreen \
+    SunsetOrange \
+    UiGradientsDIMIGO
+
 # Android Q Color accents
 PRODUCT_PACKAGES += \
     QCinnamonAccent \
