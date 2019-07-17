@@ -28,10 +28,39 @@
     <string name="accent_purple">Roxo</string>
     <string name="accent_red">Vermelho</string>
     <string name="accent_yellow">Amarelo</string>
-    <string name="accent_pixel_blue">Pixel Blue</string>
+    <string name="accent_pixel_blue">Pixel azul</string>
+    <!-- Aesthetic Accent colors from POSP -->
+    <string name="accent_army_green">Army Green</string>
+    <string name="accent_deep_red">Deep Red</string>
+    <string name="accent_faded_pink">Faded Pink</string>
+    <string name="accent_grey">Grey</string>
+    <string name="accent_kinda_indigo">Kinda Indigo</string>
+    <string name="accent_pink_red">Pink Red</string>
     <!-- Android Q Accent colors -->
-    <string name="accent_q_cinnamon">Cinnamon</string>
-    <string name="accent_q_ocean">Ocean</string>
-    <string name="accent_q_orchid">Orchid</string>
-    <string name="accent_q_space">Space</string>
+    <string name="accent_q_cinnamon">Canela</string>
+    <string name="accent_q_ocean">Oceano</string>
+    <string name="accent_q_orchid">Orquídea</string>
+    <string name="accent_q_space">Espaço</string>
+    <!-- Accent colors from famous brands -->
+    <string name="accent_aospa_green">AOSPA Green</string>
+    <string name="accent_android_one_green">Android One Green</string>
+    <string name="accent_cocacola_red">Coca-Cola Red</string>
+    <string name="accent_discord_purple">Discord Purple</string>
+    <string name="accent_facebook_blue">Facebook Blue</string>
+    <string name="accent_instagram_cerise">Instagram Cerise</string>
+    <string name="accent_jollibee_crimson">Jollibee Crimson</string>
+    <string name="accent_mcdonalds_yellow">McDonald\'s Yellow</string>
+    <string name="accent_monster_green">Monster Energy Green</string>
+    <string name="accent_nextbit_mint">Nextbit Mint</string>
+    <string name="accent_oneplus_red">OnePlus Red</string>
+    <string name="accent_pepsi_blue">Pepsi Blue</string>
+    <string name="accent_poco_yellow">Pocophone Yellow</string>
+    <string name="accent_razer_green">Razer Green</string>
+    <string name="accent_samsung_blue">Samsung Blue</string>
+    <string name="accent_spotify_green">Spotify Green</string>
+    <string name="accent_starbucks_green">Starbucks Green</string>
+    <string name="accent_twitch_purple">Twitch Purple</string>
+    <string name="accent_twitter_blue">Twitter Blue</string>
+    <string name="accent_xbox_green">Xbox Green</string>
+    <string name="accent_xiaomi_orange">Xiaomi Orange</string>
 </resources>
