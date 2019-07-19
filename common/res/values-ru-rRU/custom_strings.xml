@@ -32,9 +32,9 @@
     <!-- Aesthetic Accent colors from POSP -->
     <string name="accent_army_green">Армейский Зеленый</string>
     <string name="accent_deep_red">Глубокий красный</string>
-    <string name="accent_faded_pink">Faded Pink</string>
+    <string name="accent_faded_pink">Выцветший розовый</string>
     <string name="accent_grey">Серый</string>
-    <string name="accent_kinda_indigo">Kinda Indigo</string>
+    <string name="accent_kinda_indigo">Индиго</string>
     <string name="accent_pink_red">Розовый красный</string>
     <!-- Android Q Accent colors -->
     <string name="accent_q_cinnamon">Корица</string>
