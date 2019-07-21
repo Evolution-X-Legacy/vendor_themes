@@ -23,19 +23,19 @@
     <string name="accent_brown">Coklat</string>
     <string name="accent_cyan">Biru Kehijauan</string>
     <string name="accent_green">Hijau</string>
-    <string name="accent_orange">Orange</string>
+    <string name="accent_orange">Jeruk</string>
     <string name="accent_pink">Merah Muda</string>
     <string name="accent_purple">Ungu</string>
     <string name="accent_red">Merah</string>
     <string name="accent_yellow">Kuning</string>
     <string name="accent_pixel_blue">Pixel Biru</string>
     <!-- Aesthetic Accent colors from POSP -->
-    <string name="accent_army_green">Army Green</string>
+    <string name="accent_army_green">Hijau Tentara</string>
     <string name="accent_deep_red">Merah tua</string>
     <string name="accent_faded_pink">Pink pudar</string>
-    <string name="accent_grey">Abu-abu</string>
+    <string name="accent_grey">Abu Abu</string>
     <string name="accent_kinda_indigo">Agak Indigo</string>
-    <string name="accent_pink_red">Pink merah</string>
+    <string name="accent_pink_red">Merah Pink</string>
     <!-- Android Q Accent colors -->
     <string name="accent_q_cinnamon">Kayu Manis</string>
     <string name="accent_q_ocean">Lautan</string>
@@ -44,14 +44,14 @@
     <!-- Accent colors from famous brands -->
     <string name="accent_aospa_green">AOSPA hijau</string>
     <string name="accent_android_one_green">Android One Hijau</string>
-    <string name="accent_cocacola_red">Coca-Cola Merah</string>
+    <string name="accent_cocacola_red">Merah Coca-Cola</string>
     <string name="accent_discord_purple">Perselisihan Ungu</string>
     <string name="accent_facebook_blue">Biru Facebook</string>
     <string name="accent_instagram_cerise">Instagram Cerise</string>
-    <string name="accent_jollibee_crimson">Jollibee Merah tua</string>
-    <string name="accent_monster_green">Monster Energi Hujau</string>
+    <string name="accent_jollibee_crimson">Merah Tua Jollibee</string>
+    <string name="accent_monster_green">Hijau Monster Energi</string>
     <string name="accent_nextbit_mint">Nextbit Mint</string>
-    <string name="accent_oneplus_red">Merah Oneplus</string>
+    <string name="accent_oneplus_red">Merah OnePlus</string>
     <string name="accent_pepsi_blue">Biru Pepsi</string>
     <string name="accent_poco_yellow">Kuning Pocophone</string>
     <string name="accent_razer_green">Hijau Razer</string>
