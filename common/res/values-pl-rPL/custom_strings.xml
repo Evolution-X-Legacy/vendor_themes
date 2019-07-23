@@ -32,9 +32,9 @@
     <!-- Aesthetic Accent colors from POSP -->
     <string name="accent_army_green">Wojskowy zielony</string>
     <string name="accent_deep_red">Głęboki czerwony</string>
-    <string name="accent_faded_pink">Faded Pink</string>
+    <string name="accent_faded_pink">Wyblakły różowy</string>
     <string name="accent_grey">Szary</string>
-    <string name="accent_kinda_indigo">Kinda Indigo</string>
+    <string name="accent_kinda_indigo">W stylu indygo</string>
     <string name="accent_pink_red">Różowo czerwony</string>
     <!-- Android Q Accent colors -->
     <string name="accent_q_cinnamon">Cynamonowy</string>
@@ -45,20 +45,20 @@
     <string name="accent_aospa_green">AOSPA zielony</string>
     <string name="accent_android_one_green">Android One zielony</string>
     <string name="accent_cocacola_red">Coca Cola czerwony</string>
-    <string name="accent_discord_purple">Discord Purple</string>
+    <string name="accent_discord_purple">Róż discorda</string>
     <string name="accent_facebook_blue">Niebieski Facebook</string>
     <string name="accent_instagram_cerise">Ceramiczny Instagram</string>
-    <string name="accent_jollibee_crimson">Jollibee Crimson</string>
+    <string name="accent_jollibee_crimson">Karmazyn Jollibee</string>
     <string name="accent_monster_green">Ekologiczna zieleń</string>
-    <string name="accent_nextbit_mint">Nextbit Mint</string>
+    <string name="accent_nextbit_mint">Miętowy Nextbit</string>
     <string name="accent_oneplus_red">OnePlus czerwony</string>
     <string name="accent_pepsi_blue">Pepsi niebieski</string>
     <string name="accent_poco_yellow">Żółty Pocophone</string>
-    <string name="accent_razer_green">Razer Green</string>
+    <string name="accent_razer_green">Zieleń Razera</string>
     <string name="accent_samsung_blue">Samsung niebieski</string>
     <string name="accent_spotify_green">Spotify zielony</string>
     <string name="accent_starbucks_green">Starbucks zielony</string>
-    <string name="accent_twitch_purple">Twitch Purple</string>
+    <string name="accent_twitch_purple">Fiolet twitcha</string>
     <string name="accent_twitter_blue">Twitter Niebieski</string>
     <string name="accent_xbox_green">Xbox zielony</string>
     <string name="accent_xiaomi_orange">Xiaomi pomarańczowy</string>
