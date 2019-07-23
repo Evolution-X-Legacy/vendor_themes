@@ -39,8 +39,8 @@
     <!-- Android Q Accent colors -->
     <string name="accent_q_cinnamon">Nâu vàng</string>
     <string name="accent_q_ocean">Xanh đại dương</string>
-    <string name="accent_q_orchid">Tím Orchid</string>
-    <string name="accent_q_space">Xám Space</string>
+    <string name="accent_q_orchid">Tím phong lan</string>
+    <string name="accent_q_space">Xám vũ trụ</string>
     <!-- Accent colors from famous brands -->
     <string name="accent_aospa_green">Xanh AOSPA</string>
     <string name="accent_android_one_green">Xanh Android One</string>
